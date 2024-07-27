@@ -3,5 +3,9 @@
 version = 3
 
 [[package]]
-name = "rustaceanvim-460-repro"
+name = "workspace_crate"
+version = "0.1.0"
+
+[[package]]
+name = "workspace_crate2"
 version = "0.1.0"
